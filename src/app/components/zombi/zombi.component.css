@@ -1,0 +1,23 @@
+body{
+    background-image: url(../../../assets/img/wzombi.jpg);
+    opacity: 0.5;
+    height: 600px;
+}
+
+.texto{
+    color: #FFF;
+    margin-right: 50px;
+}
+
+.imgvacuna{
+    margin-top: 120px;
+    margin-right: 200px;
+}
+
+form{
+    margin-top: 50px ;
+}
+
+.terminos{
+    color: green;
+}
